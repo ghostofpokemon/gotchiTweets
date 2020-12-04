@@ -1,0 +1,9 @@
+CONSUMER_KEY		= 'Your'
+
+CONSUMER_SECRET		= 'Secret'
+
+BEARER_TOKEN		= 'Keys'
+
+ACCESS_TOKEN		= 'Go'
+
+ACCESS_TOKEN_SECRET	= 'Here'
